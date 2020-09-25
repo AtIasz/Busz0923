@@ -1,0 +1,13 @@
+C:\Users\Én\source\repos\buszos0922\buszos0922\obj\Debug\netcoreapp3.1\buszos0922.csprojAssemblyReference.cache
+C:\Users\Én\source\repos\buszos0922\buszos0922\obj\Debug\netcoreapp3.1\buszos0922.csproj.CoreCompileInputs.cache
+C:\Users\Én\source\repos\buszos0922\buszos0922\obj\Debug\netcoreapp3.1\buszos0922.AssemblyInfoInputs.cache
+C:\Users\Én\source\repos\buszos0922\buszos0922\obj\Debug\netcoreapp3.1\buszos0922.AssemblyInfo.cs
+C:\Users\Én\source\repos\buszos0922\buszos0922\bin\Debug\netcoreapp3.1\buszos0922.exe
+C:\Users\Én\source\repos\buszos0922\buszos0922\bin\Debug\netcoreapp3.1\buszos0922.deps.json
+C:\Users\Én\source\repos\buszos0922\buszos0922\bin\Debug\netcoreapp3.1\buszos0922.runtimeconfig.json
+C:\Users\Én\source\repos\buszos0922\buszos0922\bin\Debug\netcoreapp3.1\buszos0922.runtimeconfig.dev.json
+C:\Users\Én\source\repos\buszos0922\buszos0922\bin\Debug\netcoreapp3.1\buszos0922.dll
+C:\Users\Én\source\repos\buszos0922\buszos0922\bin\Debug\netcoreapp3.1\buszos0922.pdb
+C:\Users\Én\source\repos\buszos0922\buszos0922\obj\Debug\netcoreapp3.1\buszos0922.dll
+C:\Users\Én\source\repos\buszos0922\buszos0922\obj\Debug\netcoreapp3.1\buszos0922.pdb
+C:\Users\Én\source\repos\buszos0922\buszos0922\obj\Debug\netcoreapp3.1\buszos0922.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+megálló sorszám(kivéve 30)
+felszállás dátum
+kártya unique azonosító
+jegy / bérlet típusa
+érvényességi idő
+
+
+
+
+0326-700 6915170
